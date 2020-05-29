@@ -276,3 +276,5 @@ function getClosestEntity() { // codes by scorpion3013 too
 	})
 	return filteredEntites[filteredEntites.length - 1]
 }
+
+//now skid this base and put it in Core XDXDXDXDXDXDXD
